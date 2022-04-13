@@ -30,7 +30,7 @@ new Float: tower[][] =
 main()//OnGamemodeInit
 {
     LoadTower();
-	return 1;
+    return 1;
 }
 
 public OnPlayerUpdate(playerid)
